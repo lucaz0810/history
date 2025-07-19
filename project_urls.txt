@@ -1,2 +1,20 @@
 rust filler bot for Drift: 
 url: https://drive.google.com/file/d/1CQaUGGa6toWQmIRegMmr02lPVICha8FV/view?usp=sharing
+
+
+
+
+my phantom wallet: CyYiaeV4NjfW889foRG44VMfNNXPhSL1yMH5GfbVkWvc
+drift account: HzJqREAT1YPiFwpsqLeGGT6rm98agebNYURnJjZb1u6g
+
+-top 3 filler account
+HbCfJA7mdqZRXSXHMQpVsztBgfKygFFeQqeazJKmUME8
+2nAQCkwtj2C2gfUNfu8cYaX36Pm6QgsHkjorx7co99Bz
+G8Y8hM9E6HCfQT9ZLh9JFqJRRF9GoraZnmKUou1MtjrV
+
+
+- filler reward OK transactions's url
+** https://solscan.io/tx/5ZyQ1jS9yCJ1z4Lw4mn4WUhuFNtyYsLXEXeNe6KP8UQhvPYNJvcVZHpMwpRzverf4AfKwqPi1Czd7SURyBU6JGCF
+** https://solscan.io/tx/4isrAxQZzNrpxMSijtrmLsNr1PzTtDU5Fjgt1JrjcMs4JzSMChfWjn8Cy9EhSgX366WP5jg56SgNJ1XC5VEPgVLt
+** https://solscan.io/tx/36T85LXCBNm9PoxV72641ZfgmdFC9raYdRRs2ouhP5SFnJEeCXuJURVbpi4hug7Bxu2mWuyCZqdRZ73jR4cWbe5n
+
