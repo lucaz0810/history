@@ -4,11 +4,11 @@ url: https://drive.google.com/file/d/1CQaUGGa6toWQmIRegMmr02lPVICha8FV/view?usp=
 
 
 
-my phantom wallet: CyYiaeV4NjfW889foRG44VMfNNXPhSL1yMH5GfbVkWvc
-drift account: HzJqREAT1YPiFwpsqLeGGT6rm98agebNYURnJjZb1u6g
+old phantom wallet: CyYiaeV4NjfW889foRG44VMfNNXPhSL1yMH5GfbVkWvc
+old drift account: HzJqREAT1YPiFwpsqLeGGT6rm98agebNYURnJjZb1u6g
 
 new phantom wallet: CeTd6uBJZTRwVcWHuRjib1bDnDbrLDWbPUU69SHxAfHC
-drift account:ApvSzZNuWZhz9Kn3h1CSusT59tdzQaVY1VraFesWKtPr 
+new drift account:ApvSzZNuWZhz9Kn3h1CSusT59tdzQaVY1VraFesWKtPr 
 Rust url: wwww.1l63.com?user=dRift
 
 -top 3 filler account
